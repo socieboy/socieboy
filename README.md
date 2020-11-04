@@ -2,27 +2,28 @@ Hello my name is Frank Sepulveda, I'm a Software Engineer.
 
 <!--https://simpleicons.org/?q=raspb -->
 <!-- https://shields.io/ -->
-### 💻 Languages I have used
+#### Languages I have used
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
-![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=C#)
+![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=C%20Sharp)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![NodeJs](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=NodeJs)
+![NodeJs](https://img.shields.io/badge/-nodejs-333333?style=flat&logo=NodeJs)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 
-### 🗜 Some of the technologies I have worked with
+#### Some of the technologies I have worked with
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
-
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
-![WebSockets](https://img.shields.io/badge/-Websockets-333333?style=flat&logo=Websockets)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=Jquery)
 ![VueHs](https://img.shields.io/badge/-Vuejs-333333?style=flat&logo=VueJs)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
 ![JSON Web Tokens](https://img.shields.io/badge/-JSON%20Web%20Tokens-333333?style=flat&logo=JSON%20Web%20Tokens&logoColor=000000)
+![WebSockets](https://img.shields.io/badge/-Websockets-333333?style=flat&logo=Websockets)
+![Gstreamer](https://img.shields.io/badge/-Gstreamer-333333?style=flat&logo=Gstreamer)
+![Nvidia Deepstream](https://img.shields.io/badge/-nvidia-333333?style=flat&logo=nvidia)
 
 ![Zoom](https://img.shields.io/badge/-Zoom-333333?style=flat&logo=Zoom)
 ![Office](https://img.shields.io/badge/-Office-333333?style=flat&logo=Office)
