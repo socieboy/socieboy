@@ -10,7 +10,7 @@ Hello my name is Frank Sepulveda, I'm a Software Engineer.
 ![C#](https://img.shields.io/badge/-CSharp-333333?style=flat&logo=C%20Sharp)
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=PHP)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5)
-![NodeJs](https://img.shields.io/badge/-nodejs-333333?style=flat&logo=NodeJs)
+![NodeJs](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=nodejs)
 ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=postgresql)
 
 #### Some of the technologies I have worked with
