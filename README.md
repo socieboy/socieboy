@@ -21,6 +21,7 @@ I'm a Software Engineer.
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![SQLLite](https://img.shields.io/badge/-SQL%20Lite-333333?style=flat&logo=SQLlite)
 ![Elasticsearch](https://img.shields.io/badge/-Elastich%20Search-333333?style=flat&logo=ElastichSearch)
+![Algolia](https://img.shields.io/badge/-Algolia-333333?style=flat&logo=Algolia)
 
 #### Technologies:
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
