@@ -19,7 +19,6 @@ I'm a Software Engineer.
 
 #### Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
-![SQLLite](https://img.shields.io/badge/-SQL%20Lite-333333?style=flat&logo=SQLlite)
 ![Elasticsearch](https://img.shields.io/badge/-Elastich%20Search-333333?style=flat&logo=ElastichSearch)
 ![Algolia](https://img.shields.io/badge/-Algolia-333333?style=flat&logo=Algolia)
 
@@ -27,9 +26,6 @@ I'm a Software Engineer.
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
 ![VueJs](https://img.shields.io/badge/-Vuejs-333333?style=flat&logo=VueJs)
-![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=Jquery)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=Bootstrap)
-![WebSockets](https://img.shields.io/badge/-Websockets-333333?style=flat&logo=Websockets)
 ![Gstreamer](https://img.shields.io/badge/-Gstreamer-333333?style=flat&logo=Gstreamer)
 ![Nvidia Deepstream](https://img.shields.io/badge/-nvidia-333333?style=flat&logo=nvidia)
 
