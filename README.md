@@ -4,7 +4,7 @@ I'm a Software Engineer.
 
 <!--https://simpleicons.org/?q=raspb -->
 <!-- https://shields.io/ -->
-#### Languages:
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
@@ -16,20 +16,14 @@ I'm a Software Engineer.
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
 ![SASS](https://img.shields.io/badge/-SASS-333333?style=flat&logo=sass)
 ![LESS](https://img.shields.io/badge/-LESS-333333?style=flat&logo=less)
-
-#### Database:
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)
 ![Elasticsearch](https://img.shields.io/badge/-Elastich%20Search-333333?style=flat&logo=ElastichSearch)
 ![Algolia](https://img.shields.io/badge/-Algolia-333333?style=flat&logo=Algolia)
-
-#### Technologies:
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git&logoColor=F05032)
 ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=Laravel)
 ![VueJs](https://img.shields.io/badge/-Vuejs-333333?style=flat&logo=VueJs)
 ![Gstreamer](https://img.shields.io/badge/-Gstreamer-333333?style=flat&logo=Gstreamer)
 ![Nvidia Deepstream](https://img.shields.io/badge/-nvidia-333333?style=flat&logo=nvidia)
-
-#### Tools:
 ![Zoom](https://img.shields.io/badge/-Zoom-333333?style=flat&logo=Zoom)
 ![Office](https://img.shields.io/badge/-Office-333333?style=flat&logo=Office)
 ![Slack](https://img.shields.io/badge/-Slack-333333?style=flat&logo=Slack)
@@ -38,8 +32,6 @@ I'm a Software Engineer.
 ![Digital Ocean](https://img.shields.io/badge/-Digital%20Ocean-333333?style=flat&logo=Digital%20Ocean)
 ![AWS](http://img.shields.io/badge/-AWS-333333?style=flat&logo=Amazon)
 ![Docker](http://img.shields.io/badge/-Docker-333333?style=flat&logo=Docker)
-
-#### OS:
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat&logo=linux&logoColor=FCC624)
 ![MacOS](http://img.shields.io/badge/-Mac%20OS-333333?style=flat&logo=apple)
 
